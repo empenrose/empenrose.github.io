@@ -1,0 +1,86 @@
+body {
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-bottom: 50px;
+    margin: 0%;}
+
+.nav{
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.main judy {
+    position: relative;
+    display: inline-block;
+    width: 100%; 
+    max-width: 100%;
+    margin-left: auto; 
+    margin-right: auto;}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.image-text-container {
+    position: absolute;
+    top: 30%;
+    left: 200px;
+    transform: translateY(-50%);
+    text-align: center;
+    color: white;
+}
+
+.container-columns{
+    position: relative;
+    transform: translate(-50%, -90%);
+    left:32%;
+    padding-left: 160px;
+    padding-right: 0; 
+    color: white;
+}
+
+.word-padding {
+    padding-top: 0;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+
+.h1{
+    position: relative;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.h2{
+    position:relative;
+    margin-left: 40px;
+}
+
+.p{
+    position: relative;
+    margin-left: 40px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 60px;    
+}
+
+.figure{
+    margin-left: 38px;
+    margin-right: 160px;
+}
+
+.pagination-container {
+    margin-top: 20px;
+    margin-left: 420px;
+}
+
+.card{
+    margin-left: 38px;
+    margin-right: 38px;
+}
